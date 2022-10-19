@@ -1,0 +1,2 @@
+https://leetcode.com/problems/find-customer-referee/description/ //link of the problem
+SELECT name FROM Customer Where referee_id != 2 OR referee_id Is NULL ; //solution of the problem
